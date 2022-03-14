@@ -8,8 +8,8 @@ print(integers)
 
 ## Step 2: Create a 3x4 array with a range from 0 to 110 where each number increases by 10
 print("-----------------------------------------------   STEP TWO   -----------------------------------------------")
-
-print() 
+integers = np.arrange(0,110,10)
+print(integers) 
 
 ## Step 3: Change the layout of the above array to be 4x3, store it in a new array
 print("-----------------------------------------------   STEP THREE   -----------------------------------------------")
