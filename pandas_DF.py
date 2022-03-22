@@ -1,6 +1,6 @@
 import pandas as pd
 
-pd.set_option("precision" , 2)
+#pd.set_option("precision" , 2)
 
 grades_dict = {"Wally" : [87,96,70],
                 "Eva" : [100,87,90],
